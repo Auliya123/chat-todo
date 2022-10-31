@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "title": "109220-Naturalization",
+    "last_message": {
+      "created": "2021-01-01T19:10:57.219269Z",
+      "send_username": "Cameron Phillips",
+      "text": "Hey, please read."
+    },
+    "people": [
+      {
+        "person": {
+          "username": "Cameron Phillips"
+        }
+      },
+      {
+        "person": {
+          "username": "Auliya Michelle"
+        }
+      },
+      {
+        "person": {
+          "username": "Elizabeth"
+        }
+      },
+      {
+        "person": {
+          "username": "Ellen"
+        }
+      }
+    ],
+    "chats": [
+      {
+        "id": 1,
+        "sender_username": "Marry Hilda",
+        "text": "Just Fill me in for his updates yea?",
+        "created_at": "2021-06-08T12:32:00.000Z"
+      },
+      {
+        "id": 2,
+        "sender_username": "Auliya Michelle",
+        "text": "No worries. It will be completed ASAP. I’ve asked him yesterday",
+        "created_at": "2021-06-08T12:32:00.000Z"
+      },
+      {
+        "id": 3,
+        "sender_username": "Marry Hilda",
+        "text": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks",
+        "created_at": "2021-06-09T12:32:00.000Z"
+      },
+      {
+        "id": 4,
+        "sender_username": "Auliya Michelle",
+        "text": "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary",
+        "created_at": "2021-06-09T12:32:00.000Z"
+      },
+      {
+        "id": 5,
+        "sender_username": "Marry Hilda",
+        "text": "Sure, Thanks",
+        "created_at": "2021-06-09T12:32:00.000Z"
+      },
+      {
+        "id": 6,
+        "sender_username": "Obaidullah Amarkhill",
+        "text": "Morning. I’ll try to do them. Thanks",
+        "created_at": "2021-06-09T12:32:00.000Z"
+      }
+    ],
+    "created": "2020-12-01T04:12:57.219269Z"
+  },
+  {
+    "id": 2,
+    "title": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+    "last_message": {
+      "created": "2021-06-02T12:19:57.219269Z",
+      "send_username": "Ellen",
+      "text": "Hey, please read."
+    },
+    "people": [
+      {
+        "person": {
+          "username": "Ellen"
+        }
+      },
+      {
+        "person": {
+          "username": "Auliya Michelle"
+        }
+      },
+      {
+        "person": {
+          "username": "Jeannette"
+        }
+      },
+      {
+        "person": {
+          "username": "Hutto"
+        }
+      }
+    ],
+    "created": "2020-12-01T04:12:57.219269Z"
+  },
+  {
+    "id": 3,
+    "title": "8405-Diana SALAZAR MUNGUIA",
+    "last_message": {
+      "created": "2021-01-06T12:19:57.219269Z",
+      "send_username": "Cameron Phillips",
+      "text": "I understand your initial concerns and thats very valid, Elizabeth. But you ..."
+    },
+    "people": [
+      {
+        "person": {
+          "username": "Cameron Phillips"
+        }
+      },
+      {
+        "person": {
+          "username": "Auliya Michelle"
+        }
+      },
+      {
+        "person": {
+          "username": "Elizabeth"
+        }
+      }
+    ],
+    "created": "2020-12-01T04:12:57.219269Z"
+  },
+  {
+    "id": 4,
+    "title": "FastVisa Support",
+    "last_message": {
+      "created": "2021-01-06T12:19:57.219269Z",
+      "send_username": "FastVisa Support",
+      "text": "Hey there! Welcome to your inbox."
+    },
+    "people": [
+      {
+        "person": {
+          "username": "FastVisa Support"
+        }
+      },
+      {
+        "person": {
+          "username": "Auliya Michelle"
+        }
+      }
+    ],
+    "created": "2020-12-01T04:12:57.219269Z"
+  }
+]

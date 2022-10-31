@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "common/*":[
+        "modules/common/*"
+      ],
+      "server/*":[
+        "modules/server/*"
+        
+      ],
+    }
+  }
+}
